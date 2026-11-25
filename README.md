@@ -1,6 +1,6 @@
 # Dar alBaraka: Travel & Umrah Website
 
-> **Client project** · Built by [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab) · The source code is private to the client.
+> **Client project** · Built by [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi) · The source code is private to the client.
 
 The website for **Dar alBaraka**, a Kabul travel agency offering tours across Afghanistan (Bamyan, Wakhan, Panjshir) and Umrah and Hajj packages that include visas, flights and hotels.
 
